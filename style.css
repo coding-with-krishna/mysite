@@ -1,0 +1,30 @@
+body {
+  background-color: #f0ffff	;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+
+}
+
+.top-container {
+  background-color: #f0fff0	;
+
+  text-align: center;
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+    .bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+.top-image{
+  position: relative;
+  left: 400px;
+  padding: 20px;
+}
